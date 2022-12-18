@@ -28,4 +28,4 @@ if __name__ == '__main__':
             verse = randomVerse()
         
         tweet(api, verse)
-        time.sleep(21600)
+        time.sleep(21600) # 21600 seconds is equal; to six hours
